@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrunalDhargave-KD
 - 👀 I’m interested in web
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on web scraping
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
